@@ -59,5 +59,7 @@ The following files are available for the train and test data. Their description
 •	 Generates a table with only the column names that contain "mean" and "std".
 
 •	 Adds a column for activity code with the name of the activity.
+
 •	 Replaces the variable names with more descriptive names.
+
 •	 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
